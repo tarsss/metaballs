@@ -8,6 +8,8 @@ Surface search and voxelization works by seaching for one point on the blob's su
 
 Triangulation is based on Marching Cubes algorithm with slight modifications to create less degenerate triangles.
 
+https://github.com/tarsss/metaballs/assets/65231359/10def490-5721-4561-8c9c-f1010361cb15
+
 # TODO
 
 - [ ] Try Naive Surface Nets for triangulation, should generate better geometry at lower resolutions
